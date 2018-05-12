@@ -1,0 +1,42 @@
+_repo: Howard-Pyle-s-Book-of-Pirates--13-Fiction-Fact--amp--Fancy-Concerning-the-Buccaneers--amp--Ma__26862
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Johnson, Merle De Vore
+    birthdate: 1874
+    deathdate: 1935
+    gutenberg_agent_id: '32293'
+    url: http://www.gutenberg.org/2009/agents/32293
+covers:
+- cover_type: archival
+  image_path: 26862-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: ''
+gutenberg_issued: '2008-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction, American'
+- !lcsh 'Buccaneers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Spanish Main -- Fiction'
+- !lcsh 'Sea stories, American'
+tableOfContents: Buccaneers and marooners of the Spanish Main -- The ghost of Captain
+  Brand -- With the buccaneers -- Tom Chist and the treasure box -- Jack Ballister's
+  fortunes -- Blueskin, the pirate -- Captain Scarfield -- The ruby of Kishmoor.
+title: "Howard Pyle's Book of Pirates\r\nFiction, Fact & Fancy Concerning the Buccaneers\
+  \ & Marooners of the Spanish Main"
+url: http://www.gutenberg.org/ebooks/26862
