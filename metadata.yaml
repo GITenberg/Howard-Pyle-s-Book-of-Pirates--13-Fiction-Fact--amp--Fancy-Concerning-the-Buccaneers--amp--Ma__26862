@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/491
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26862#Howard-Pyle-s-Book-of-Pirates--13-Fiction-Fact--amp--Fancy-Concerning-the-Buccaneers--amp--Ma_
 gutenberg_issued: '2008-10-10'
 gutenberg_type: Text
 identifiers:
